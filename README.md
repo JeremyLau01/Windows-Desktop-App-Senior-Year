@@ -14,6 +14,6 @@ Download "WpfTry3.exe" to test out the build for yourself. Features include:
 - Custom minimize and close buttons
 - Hand-drawn smiley face taskbar app icon
 
-["Jeremy Lau Todo App Video.mp4"](https://youtu.be/Xr-4ZGVtyss) is a video showing that the app works as intended and gives an example of someone using the app.
+[YouTube Video Demonstration](https://youtu.be/Xr-4ZGVtyss) which shows that the app works as intended and gives an example of someone using the app.
 
 "Jeremy Lau - TED Talk - How to make an app.pptx" is a powerpoint slideshow that summarizes the techniques, processes, and resources I used to teach myself how to make an app from scratch. 
